@@ -31,7 +31,7 @@ This project helps utilities prepare for the **Inflation Reduction Act**. It dem
     pip install -r requirements.txt
     ```
 
-## 📋 Usage
+## Usage
 
 1.  **Run the Dashboard:**
     Launch the interactive tool to see the data visually.
