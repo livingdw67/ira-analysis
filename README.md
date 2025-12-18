@@ -7,8 +7,6 @@
 ## Context & Mission
 I'm a **Data Science Consultant** based in **Greer, SC**, with over 10 years of experience in the **Finance and Energy sectors**.
 
-I am having the time of my life right now building the tools I’ve always wanted to see exist. I’ve set up shop at the **Openworks tech hub** in downtown Greenville, and the freedom to focus on pure R&D has been invigorating.
-
 This project helps utilities prepare for the **Inflation Reduction Act**. It demonstrates grid vulnerabilities that arise when EV adoption spikes in concentrated areas—specifically if too many people utilize the tax credit to buy EVs in the same neighborhood.
 
 ## Key Features
